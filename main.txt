@@ -1441,6 +1441,7 @@ createCustomButton("Info", "Book Supported", "Show what Book/Chapter Available",
         "• Jealousy Book 2 Chapter 2",
          "• Control All Chapter",
 "• Halloween Trials",
+"• The Witch Trials",
        
     }
     
